@@ -1,0 +1,9 @@
+customtkinter==5.2.2
+openai>=1.82,<3
+Pillow>=10
+pywin32>=306
+sounddevice>=0.4
+vosk>=0.3
+google-api-python-client>=2.170
+google-auth-oauthlib>=1.2
+dateparser>=1.2
